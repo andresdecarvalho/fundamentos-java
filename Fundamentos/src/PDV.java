@@ -16,7 +16,7 @@ public class PDV {
 		System.out.println(formatador.format(data));
 		System.out.println("==============");
 		System.out.println("===== PDV ====");
-		System.out.println("==============");
+		System.out.println("==============");   
 		System.out.println("");
 		System.out.println("Valor total");
 		total = leia.nextDouble();
