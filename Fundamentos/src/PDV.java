@@ -30,6 +30,7 @@ public class PDV {
 		pago = leia.nextDouble();
 		troco = pago - totalDesconto; 
 		System.out.println("Troco " + resultado.format(troco)); 
+		leia.close();
 		
 	}
 
