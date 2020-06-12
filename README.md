@@ -1,4 +1,4 @@
-# Fundamentos na linhguagem Java
+# Fundamentos na linguagem Java
 
 <p>Calculadora IMC</p>
 <p>Calculo de Média</p>
